@@ -6168,3 +6168,979 @@ Session ID: f110662c9e982648df6d8ba13be22b2a
 2025-08-22 12:35:19,,,Successfully redirected to login page after logout.
 2025-08-22 12:35:19,,,Successfully logged out and redirected to login page.
 2025-08-22 12:35:19,,,Browser closed.
+2025-08-22 14:37:32,,,Driver setup successfully
+2025-08-22 14:37:32,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 14:37:32,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:37:32,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:37:59,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:37:59,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:38:02,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:38:02,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:38:02,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:38:02,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:38:07,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:38:07,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:38:07,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:38:07,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:38:20,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 14:38:20,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 14:38:30,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 14:38:30,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 14:38:30,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 14:38:32,Anwar,Capium365_Dashboard,the user selects This Year from the filter dropdown
+2025-08-22 14:38:32,,,Captured screenshot for passed step: the user selects This Year from the filter dropdown
+2025-08-22 14:38:32,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:32,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:32,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:32,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:38:32,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:38:33,Anwar,Capium365_Dashboard,the user selects This Month from the filter dropdown
+2025-08-22 14:38:33,,,Captured screenshot for passed step: the user selects This Month from the filter dropdown
+2025-08-22 14:38:33,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:34,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:34,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:34,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:38:34,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:38:35,Anwar,Capium365_Dashboard,the user selects This Week from the filter dropdown
+2025-08-22 14:38:35,,,Captured screenshot for passed step: the user selects This Week from the filter dropdown
+2025-08-22 14:38:35,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:35,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:35,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:35,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:38:36,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:38:37,Anwar,Capium365_Dashboard,the user selects Last Week from the filter dropdown
+2025-08-22 14:38:37,,,Captured screenshot for passed step: the user selects Last Week from the filter dropdown
+2025-08-22 14:38:37,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:37,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:37,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:37,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:38:37,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:38:38,Anwar,Capium365_Dashboard,the user selects Last Month from the filter dropdown
+2025-08-22 14:38:38,,,Captured screenshot for passed step: the user selects Last Month from the filter dropdown
+2025-08-22 14:38:38,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:38,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:39,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:39,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:38:39,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:38:40,Anwar,Capium365_Dashboard,the user selects This Quarter from the filter dropdown
+2025-08-22 14:38:40,,,Captured screenshot for passed step: the user selects This Quarter from the filter dropdown
+2025-08-22 14:38:40,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:40,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:40,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:40,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:38:40,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:38:41,Anwar,Capium365_Dashboard,the user selects Last Quarter from the filter dropdown
+2025-08-22 14:38:41,,,Captured screenshot for passed step: the user selects Last Quarter from the filter dropdown
+2025-08-22 14:38:41,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:42,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:42,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:38:42,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:38:42,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:38:43,Anwar,Capium365_Dashboard,the user selects Last Year from the filter dropdown
+2025-08-22 14:38:43,,,Captured screenshot for passed step: the user selects Last Year from the filter dropdown
+2025-08-22 14:38:43,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:43,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:43,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 14:38:43,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 14:38:43,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 14:38:44,Anwar,Capium365_Dashboard,the user selects Custom from the filter dropdown
+2025-08-22 14:38:45,,,Captured screenshot for passed step: the user selects Custom from the filter dropdown
+2025-08-22 14:38:45,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 14:38:45,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 14:38:45,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 14:38:45,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 14:38:46,Anwar,Capium365_Dashboard,the user selects This Financial Year from the filter dropdown
+2025-08-22 14:38:46,,,Captured screenshot for passed step: the user selects This Financial Year from the filter dropdown
+2025-08-22 14:38:46,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:38:46,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:38:46,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:38:46,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:38:47,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 14:38:47,,,Scenario Passed.
+2025-08-22 14:38:51,,,Clicked 5.0 Profile Icon.
+2025-08-22 14:38:53,,,Clicked 5.0 Sign Out.
+2025-08-22 14:38:53,,,Successfully redirected to login page after logout.
+2025-08-22 14:38:53,,,Successfully logged out and redirected to login page.
+2025-08-22 14:38:53,,,Browser closed.
+2025-08-22 14:38:56,,,Scenario:Validate Transactions dashboard chart for 'This Year'
+2025-08-22 14:38:56,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:38:56,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:38:58,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:38:58,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:38:59,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:38:59,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:38:59,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:39:00,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:39:03,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:39:03,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:39:03,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:39:03,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:39:16,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 14:39:16,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 14:39:26,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 14:39:27,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 14:39:27,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 14:39:30,Anwar,Capium365_Dashboard,the user selects This Year from the Transactions filter dropdown
+2025-08-22 14:39:31,,,Captured screenshot for passed step: the user selects This Year from the Transactions filter dropdown
+2025-08-22 14:39:31,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:31,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:31,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:31,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:39:31,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:39:35,Anwar,Capium365_Dashboard,the user selects This Month from the Transactions filter dropdown
+2025-08-22 14:39:35,,,Captured screenshot for passed step: the user selects This Month from the Transactions filter dropdown
+2025-08-22 14:39:35,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:35,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:35,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:35,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:39:35,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:39:39,Anwar,Capium365_Dashboard,the user selects This Week from the Transactions filter dropdown
+2025-08-22 14:39:39,,,Captured screenshot for passed step: the user selects This Week from the Transactions filter dropdown
+2025-08-22 14:39:39,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:39,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:39,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:39,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:39:39,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:39:43,Anwar,Capium365_Dashboard,the user selects Last Week from the Transactions filter dropdown
+2025-08-22 14:39:43,,,Captured screenshot for passed step: the user selects Last Week from the Transactions filter dropdown
+2025-08-22 14:39:43,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:43,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:43,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:43,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:39:43,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:39:47,Anwar,Capium365_Dashboard,the user selects Last Month from the Transactions filter dropdown
+2025-08-22 14:39:47,,,Captured screenshot for passed step: the user selects Last Month from the Transactions filter dropdown
+2025-08-22 14:39:47,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:47,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:47,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:47,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:39:47,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:39:51,Anwar,Capium365_Dashboard,the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 14:39:51,,,Captured screenshot for passed step: the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 14:39:51,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:51,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:51,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:51,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:39:52,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:39:55,Anwar,Capium365_Dashboard,the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 14:39:55,,,Captured screenshot for passed step: the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 14:39:55,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:39:55,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:39:56,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:39:56,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:39:56,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:39:59,Anwar,Capium365_Dashboard,the user selects Last Year from the Transactions filter dropdown
+2025-08-22 14:39:59,,,Captured screenshot for passed step: the user selects Last Year from the Transactions filter dropdown
+2025-08-22 14:39:59,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:40:00,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:40:00,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 14:40:00,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 14:40:00,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 14:40:04,Anwar,Capium365_Dashboard,the user selects Custom from the Transactions filter dropdown
+2025-08-22 14:40:04,,,Captured screenshot for passed step: the user selects Custom from the Transactions filter dropdown
+2025-08-22 14:40:04,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 14:40:04,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 14:40:04,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 14:40:04,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 14:40:08,Anwar,Capium365_Dashboard,the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 14:40:08,,,Captured screenshot for passed step: the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 14:40:08,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:40:08,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:40:08,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:40:08,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:40:08,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 14:40:08,,,Scenario Passed.
+2025-08-22 14:40:09,,,Clicked 5.0 Profile Icon.
+2025-08-22 14:40:10,,,Clicked 5.0 Sign Out.
+2025-08-22 14:40:10,,,Successfully redirected to login page after logout.
+2025-08-22 14:40:10,,,Successfully logged out and redirected to login page.
+2025-08-22 14:40:10,,,Browser closed.
+2025-08-22 14:50:43,,,Driver setup successfully
+2025-08-22 14:50:44,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 14:50:44,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:50:44,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:50:45,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:50:46,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:50:47,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:50:47,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:50:47,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:50:47,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:50:50,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:50:51,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:50:51,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:50:51,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:51:04,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 14:51:04,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 14:51:14,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 14:51:14,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 14:51:14,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 14:51:16,Anwar,Capium365_Dashboard,the user selects This Year from the filter dropdown
+2025-08-22 14:51:16,,,Captured screenshot for passed step: the user selects This Year from the filter dropdown
+2025-08-22 14:51:16,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:16,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:16,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:16,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:51:16,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:51:17,Anwar,Capium365_Dashboard,the user selects This Month from the filter dropdown
+2025-08-22 14:51:17,,,Captured screenshot for passed step: the user selects This Month from the filter dropdown
+2025-08-22 14:51:17,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:18,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:18,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:18,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:51:18,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:51:20,Anwar,Capium365_Dashboard,the user selects This Week from the filter dropdown
+2025-08-22 14:51:20,,,Captured screenshot for passed step: the user selects This Week from the filter dropdown
+2025-08-22 14:51:20,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:20,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:20,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:20,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:51:20,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:51:22,Anwar,Capium365_Dashboard,the user selects Last Week from the filter dropdown
+2025-08-22 14:51:22,,,Captured screenshot for passed step: the user selects Last Week from the filter dropdown
+2025-08-22 14:51:22,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:22,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:22,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:22,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:51:22,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:51:23,Anwar,Capium365_Dashboard,the user selects Last Month from the filter dropdown
+2025-08-22 14:51:24,,,Captured screenshot for passed step: the user selects Last Month from the filter dropdown
+2025-08-22 14:51:24,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:24,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:24,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:24,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:51:24,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:51:25,Anwar,Capium365_Dashboard,the user selects This Quarter from the filter dropdown
+2025-08-22 14:51:26,,,Captured screenshot for passed step: the user selects This Quarter from the filter dropdown
+2025-08-22 14:51:26,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:26,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:26,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:26,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:51:26,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:51:27,Anwar,Capium365_Dashboard,the user selects Last Quarter from the filter dropdown
+2025-08-22 14:51:27,,,Captured screenshot for passed step: the user selects Last Quarter from the filter dropdown
+2025-08-22 14:51:27,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:28,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:28,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:51:28,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:51:28,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:51:29,Anwar,Capium365_Dashboard,the user selects Last Year from the filter dropdown
+2025-08-22 14:51:29,,,Captured screenshot for passed step: the user selects Last Year from the filter dropdown
+2025-08-22 14:51:29,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:29,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:29,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 14:51:29,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 14:51:30,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 14:51:31,Anwar,Capium365_Dashboard,the user selects Custom from the filter dropdown
+2025-08-22 14:51:31,,,Captured screenshot for passed step: the user selects Custom from the filter dropdown
+2025-08-22 14:51:31,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 14:51:31,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 14:51:32,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 14:51:32,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 14:51:33,Anwar,Capium365_Dashboard,the user selects This Financial Year from the filter dropdown
+2025-08-22 14:51:33,,,Captured screenshot for passed step: the user selects This Financial Year from the filter dropdown
+2025-08-22 14:51:33,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:51:33,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:51:33,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:51:33,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:51:33,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 14:51:33,,,Scenario Passed.
+2025-08-22 14:51:34,,,Clicked 5.0 Profile Icon.
+2025-08-22 14:51:35,,,Clicked 5.0 Sign Out.
+2025-08-22 14:51:35,,,Successfully redirected to login page after logout.
+2025-08-22 14:51:35,,,Successfully logged out and redirected to login page.
+2025-08-22 14:51:35,,,Browser closed.
+2025-08-22 14:51:38,,,Scenario:Validate Transactions dashboard chart for 'This Year'
+2025-08-22 14:51:38,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:51:38,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:51:40,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:51:40,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:51:41,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:51:41,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:51:41,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:51:41,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:51:45,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:51:45,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:51:45,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:51:45,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:51:58,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 14:51:58,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 14:52:08,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 14:52:08,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 14:52:09,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 14:52:12,Anwar,Capium365_Dashboard,the user selects This Year from the Transactions filter dropdown
+2025-08-22 14:52:12,,,Captured screenshot for passed step: the user selects This Year from the Transactions filter dropdown
+2025-08-22 14:52:12,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:12,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:13,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:13,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:52:13,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:52:16,Anwar,Capium365_Dashboard,the user selects This Month from the Transactions filter dropdown
+2025-08-22 14:52:16,,,Captured screenshot for passed step: the user selects This Month from the Transactions filter dropdown
+2025-08-22 14:52:16,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:17,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:17,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:17,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:52:17,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:52:20,Anwar,Capium365_Dashboard,the user selects This Week from the Transactions filter dropdown
+2025-08-22 14:52:21,,,Captured screenshot for passed step: the user selects This Week from the Transactions filter dropdown
+2025-08-22 14:52:21,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:21,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:21,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:21,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:52:21,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:52:25,Anwar,Capium365_Dashboard,the user selects Last Week from the Transactions filter dropdown
+2025-08-22 14:52:25,,,Captured screenshot for passed step: the user selects Last Week from the Transactions filter dropdown
+2025-08-22 14:52:25,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:25,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:25,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:25,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:52:25,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:52:29,Anwar,Capium365_Dashboard,the user selects Last Month from the Transactions filter dropdown
+2025-08-22 14:52:29,,,Captured screenshot for passed step: the user selects Last Month from the Transactions filter dropdown
+2025-08-22 14:52:29,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:29,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:29,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:29,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:52:29,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:52:33,Anwar,Capium365_Dashboard,the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 14:52:33,,,Captured screenshot for passed step: the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 14:52:33,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:33,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:33,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:33,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:52:33,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:52:37,Anwar,Capium365_Dashboard,the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 14:52:37,,,Captured screenshot for passed step: the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 14:52:37,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:37,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:37,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:52:37,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:52:37,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:52:41,Anwar,Capium365_Dashboard,the user selects Last Year from the Transactions filter dropdown
+2025-08-22 14:52:41,,,Captured screenshot for passed step: the user selects Last Year from the Transactions filter dropdown
+2025-08-22 14:52:41,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:41,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:41,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 14:52:41,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 14:52:42,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 14:52:45,Anwar,Capium365_Dashboard,the user selects Custom from the Transactions filter dropdown
+2025-08-22 14:52:45,,,Captured screenshot for passed step: the user selects Custom from the Transactions filter dropdown
+2025-08-22 14:52:45,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 14:52:46,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 14:52:46,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 14:52:46,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 14:52:50,Anwar,Capium365_Dashboard,the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 14:52:50,,,Captured screenshot for passed step: the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 14:52:50,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:52:50,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:52:50,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:52:50,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:52:50,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 14:52:50,,,Scenario Passed.
+2025-08-22 14:52:50,,,Clicked 5.0 Profile Icon.
+2025-08-22 14:52:51,,,Clicked 5.0 Sign Out.
+2025-08-22 14:52:52,,,Successfully redirected to login page after logout.
+2025-08-22 14:52:52,,,Successfully logged out and redirected to login page.
+2025-08-22 14:52:52,,,Browser closed.
+2025-08-22 14:56:57,,,Driver setup successfully
+2025-08-22 14:56:57,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 14:56:57,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:56:57,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:56:59,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:56:59,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:57:00,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:57:00,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:57:01,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:57:01,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:57:04,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:57:04,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:57:04,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:57:04,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:57:16,,,Failed to capture screenshot for step: User enter OTP | Error: invalid session id
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [711265197cdfa6bfe6e5a4256e445e97, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53330}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53330/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 711265197cdfa6bfe6e5a4256e445e97
+2025-08-22 14:57:16,,,Scenario Failed.
+2025-08-22 14:57:16,,,No logout element was clicked.
+2025-08-22 14:57:16,,,Successfully logged out and redirected to login page.
+2025-08-22 14:57:16,,,Browser closed.
+2025-08-22 14:57:18,,,Scenario:Validate Transactions dashboard chart for 'This Year'
+2025-08-22 14:57:18,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:57:18,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:57:20,,,Failed to capture screenshot for step: Launch the browser | Error: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32905a820f28ed22de00d578323cad35, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53398/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32905a820f28ed22de00d578323cad35
+2025-08-22 14:57:20,,,Scenario Failed.
+2025-08-22 14:57:21,,,No logout element was clicked.
+2025-08-22 14:57:21,,,Successfully logged out and redirected to login page.
+2025-08-22 14:57:21,,,Browser closed.
+2025-08-22 14:57:58,,,Driver setup successfully
+2025-08-22 14:57:58,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 14:57:58,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:57:59,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:58:00,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:58:00,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:58:01,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:58:02,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:58:02,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:58:02,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:58:05,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:58:05,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:58:05,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:58:05,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:58:18,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 14:58:19,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 14:58:29,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 14:58:29,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 14:58:29,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 14:58:30,Anwar,Capium365_Dashboard,the user selects This Year from the filter dropdown
+2025-08-22 14:58:30,,,Captured screenshot for passed step: the user selects This Year from the filter dropdown
+2025-08-22 14:58:30,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:30,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:30,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:30,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:58:31,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:58:32,Anwar,Capium365_Dashboard,the user selects This Month from the filter dropdown
+2025-08-22 14:58:32,,,Captured screenshot for passed step: the user selects This Month from the filter dropdown
+2025-08-22 14:58:32,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:32,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:32,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:32,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:58:33,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:58:34,Anwar,Capium365_Dashboard,the user selects This Week from the filter dropdown
+2025-08-22 14:58:34,,,Captured screenshot for passed step: the user selects This Week from the filter dropdown
+2025-08-22 14:58:34,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:34,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:34,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:34,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:58:34,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:58:36,Anwar,Capium365_Dashboard,the user selects Last Week from the filter dropdown
+2025-08-22 14:58:36,,,Captured screenshot for passed step: the user selects Last Week from the filter dropdown
+2025-08-22 14:58:36,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:36,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:37,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:37,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:58:37,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:58:38,Anwar,Capium365_Dashboard,the user selects Last Month from the filter dropdown
+2025-08-22 14:58:39,,,Captured screenshot for passed step: the user selects Last Month from the filter dropdown
+2025-08-22 14:58:39,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:39,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:39,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:39,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:58:39,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:58:40,Anwar,Capium365_Dashboard,the user selects This Quarter from the filter dropdown
+2025-08-22 14:58:41,,,Captured screenshot for passed step: the user selects This Quarter from the filter dropdown
+2025-08-22 14:58:41,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:41,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:41,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:41,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:58:41,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:58:43,Anwar,Capium365_Dashboard,the user selects Last Quarter from the filter dropdown
+2025-08-22 14:58:43,,,Captured screenshot for passed step: the user selects Last Quarter from the filter dropdown
+2025-08-22 14:58:43,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:43,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:43,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:58:43,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:58:43,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:58:45,Anwar,Capium365_Dashboard,the user selects Last Year from the filter dropdown
+2025-08-22 14:58:45,,,Captured screenshot for passed step: the user selects Last Year from the filter dropdown
+2025-08-22 14:58:45,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:45,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:45,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 14:58:45,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 14:58:45,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 14:58:47,Anwar,Capium365_Dashboard,the user selects Custom from the filter dropdown
+2025-08-22 14:58:47,,,Captured screenshot for passed step: the user selects Custom from the filter dropdown
+2025-08-22 14:58:47,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 14:58:48,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 14:58:48,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 14:58:48,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 14:58:49,Anwar,Capium365_Dashboard,the user selects This Financial Year from the filter dropdown
+2025-08-22 14:58:49,,,Captured screenshot for passed step: the user selects This Financial Year from the filter dropdown
+2025-08-22 14:58:49,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:58:49,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:58:50,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:58:50,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 14:58:50,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 14:58:50,,,Scenario Passed.
+2025-08-22 14:58:50,,,Clicked 5.0 Profile Icon.
+2025-08-22 14:58:51,,,Clicked 5.0 Sign Out.
+2025-08-22 14:58:51,,,Successfully redirected to login page after logout.
+2025-08-22 14:58:51,,,Successfully logged out and redirected to login page.
+2025-08-22 14:58:52,,,Browser closed.
+2025-08-22 14:58:54,,,Scenario:Validate Transactions dashboard chart for 'This Year'
+2025-08-22 14:58:54,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 14:58:54,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 14:58:56,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 14:58:56,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 14:58:57,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 14:58:57,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 14:58:57,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 14:58:57,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 14:59:01,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 14:59:01,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 14:59:01,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 14:59:01,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 14:59:14,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 14:59:14,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 14:59:24,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 14:59:24,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 14:59:24,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 14:59:28,Anwar,Capium365_Dashboard,the user selects This Year from the Transactions filter dropdown
+2025-08-22 14:59:28,,,Captured screenshot for passed step: the user selects This Year from the Transactions filter dropdown
+2025-08-22 14:59:28,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:28,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:28,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:28,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:59:29,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:59:32,Anwar,Capium365_Dashboard,the user selects This Month from the Transactions filter dropdown
+2025-08-22 14:59:32,,,Captured screenshot for passed step: the user selects This Month from the Transactions filter dropdown
+2025-08-22 14:59:32,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:32,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:33,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:33,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:59:33,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:59:36,Anwar,Capium365_Dashboard,the user selects This Week from the Transactions filter dropdown
+2025-08-22 14:59:36,,,Captured screenshot for passed step: the user selects This Week from the Transactions filter dropdown
+2025-08-22 14:59:36,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:37,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:37,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:37,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:59:37,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:59:40,Anwar,Capium365_Dashboard,the user selects Last Week from the Transactions filter dropdown
+2025-08-22 14:59:41,,,Captured screenshot for passed step: the user selects Last Week from the Transactions filter dropdown
+2025-08-22 14:59:41,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:41,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:41,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:41,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:59:41,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:59:45,Anwar,Capium365_Dashboard,the user selects Last Month from the Transactions filter dropdown
+2025-08-22 14:59:45,,,Captured screenshot for passed step: the user selects Last Month from the Transactions filter dropdown
+2025-08-22 14:59:45,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:45,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:45,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:45,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 14:59:45,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 14:59:49,Anwar,Capium365_Dashboard,the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 14:59:49,,,Captured screenshot for passed step: the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 14:59:49,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:49,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:49,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:49,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:59:49,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:59:53,Anwar,Capium365_Dashboard,the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 14:59:53,,,Captured screenshot for passed step: the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 14:59:53,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:53,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:53,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 14:59:53,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 14:59:53,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 14:59:57,Anwar,Capium365_Dashboard,the user selects Last Year from the Transactions filter dropdown
+2025-08-22 14:59:57,,,Captured screenshot for passed step: the user selects Last Year from the Transactions filter dropdown
+2025-08-22 14:59:57,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 14:59:57,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 14:59:57,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 14:59:57,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 14:59:57,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 15:00:01,Anwar,Capium365_Dashboard,the user selects Custom from the Transactions filter dropdown
+2025-08-22 15:00:01,,,Captured screenshot for passed step: the user selects Custom from the Transactions filter dropdown
+2025-08-22 15:00:01,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 15:00:01,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 15:00:02,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 15:00:02,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 15:00:05,Anwar,Capium365_Dashboard,the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 15:00:05,,,Captured screenshot for passed step: the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 15:00:05,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:00:06,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:00:06,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:00:06,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:00:06,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 15:00:06,,,Scenario Passed.
+2025-08-22 15:00:06,,,Clicked 5.0 Profile Icon.
+2025-08-22 15:00:07,,,Clicked 5.0 Sign Out.
+2025-08-22 15:00:07,,,Successfully redirected to login page after logout.
+2025-08-22 15:00:07,,,Successfully logged out and redirected to login page.
+2025-08-22 15:00:07,,,Browser closed.
+2025-08-22 15:01:11,,,Driver setup successfully
+2025-08-22 15:01:12,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 15:01:12,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 15:01:12,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 15:01:14,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 15:01:14,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 15:01:15,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 15:01:15,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 15:01:16,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 15:01:16,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 15:01:18,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 15:01:18,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 15:01:18,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 15:01:18,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 15:01:31,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 15:01:31,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 15:01:41,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 15:01:42,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 15:01:42,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 15:01:43,Anwar,Capium365_Dashboard,the user selects This Year from the filter dropdown
+2025-08-22 15:01:43,,,Captured screenshot for passed step: the user selects This Year from the filter dropdown
+2025-08-22 15:01:43,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:43,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:43,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:43,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:01:43,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:01:44,Anwar,Capium365_Dashboard,the user selects This Month from the filter dropdown
+2025-08-22 15:01:45,,,Captured screenshot for passed step: the user selects This Month from the filter dropdown
+2025-08-22 15:01:45,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:45,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:45,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:45,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:01:45,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:01:47,Anwar,Capium365_Dashboard,the user selects This Week from the filter dropdown
+2025-08-22 15:01:47,,,Captured screenshot for passed step: the user selects This Week from the filter dropdown
+2025-08-22 15:01:47,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:47,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:47,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:47,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:01:47,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:01:48,Anwar,Capium365_Dashboard,the user selects Last Week from the filter dropdown
+2025-08-22 15:01:49,,,Captured screenshot for passed step: the user selects Last Week from the filter dropdown
+2025-08-22 15:01:49,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:49,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:49,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:49,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:01:49,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:01:50,Anwar,Capium365_Dashboard,the user selects Last Month from the filter dropdown
+2025-08-22 15:01:51,,,Captured screenshot for passed step: the user selects Last Month from the filter dropdown
+2025-08-22 15:01:51,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:51,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:51,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:51,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:01:51,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:01:53,Anwar,Capium365_Dashboard,the user selects This Quarter from the filter dropdown
+2025-08-22 15:01:53,,,Captured screenshot for passed step: the user selects This Quarter from the filter dropdown
+2025-08-22 15:01:53,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:53,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:53,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:53,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:01:54,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:01:55,Anwar,Capium365_Dashboard,the user selects Last Quarter from the filter dropdown
+2025-08-22 15:01:55,,,Captured screenshot for passed step: the user selects Last Quarter from the filter dropdown
+2025-08-22 15:01:55,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:55,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:55,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:01:55,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:01:55,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:01:57,Anwar,Capium365_Dashboard,the user selects Last Year from the filter dropdown
+2025-08-22 15:01:57,,,Captured screenshot for passed step: the user selects Last Year from the filter dropdown
+2025-08-22 15:01:57,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:01:57,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:01:57,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 15:01:57,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 15:01:58,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 15:01:59,Anwar,Capium365_Dashboard,the user selects Custom from the filter dropdown
+2025-08-22 15:01:59,,,Captured screenshot for passed step: the user selects Custom from the filter dropdown
+2025-08-22 15:02:00,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 15:02:00,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 15:02:00,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 15:02:00,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 15:02:01,Anwar,Capium365_Dashboard,the user selects This Financial Year from the filter dropdown
+2025-08-22 15:02:01,,,Captured screenshot for passed step: the user selects This Financial Year from the filter dropdown
+2025-08-22 15:02:01,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:02:02,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:02:02,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:02:02,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:02:02,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 15:02:02,,,Scenario Passed.
+2025-08-22 15:02:02,,,Clicked 5.0 Profile Icon.
+2025-08-22 15:02:03,,,Clicked 5.0 Sign Out.
+2025-08-22 15:02:03,,,Successfully redirected to login page after logout.
+2025-08-22 15:02:03,,,Successfully logged out and redirected to login page.
+2025-08-22 15:02:04,,,Browser closed.
+2025-08-22 15:02:06,,,Scenario:Validate Transactions dashboard chart for 'This Year'
+2025-08-22 15:02:06,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 15:02:06,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 15:02:08,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 15:02:08,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 15:02:09,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 15:02:09,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 15:02:09,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 15:02:09,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 15:02:13,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 15:02:14,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 15:02:14,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 15:02:14,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 15:02:27,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 15:02:27,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 15:02:37,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 15:02:37,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 15:02:37,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 15:02:41,Anwar,Capium365_Dashboard,the user selects This Year from the Transactions filter dropdown
+2025-08-22 15:02:41,,,Captured screenshot for passed step: the user selects This Year from the Transactions filter dropdown
+2025-08-22 15:02:41,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:02:41,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:02:41,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:02:41,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:02:42,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:02:45,Anwar,Capium365_Dashboard,the user selects This Month from the Transactions filter dropdown
+2025-08-22 15:02:45,,,Captured screenshot for passed step: the user selects This Month from the Transactions filter dropdown
+2025-08-22 15:02:45,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:02:45,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:02:45,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:02:45,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:02:46,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:02:49,Anwar,Capium365_Dashboard,the user selects This Week from the Transactions filter dropdown
+2025-08-22 15:02:49,,,Captured screenshot for passed step: the user selects This Week from the Transactions filter dropdown
+2025-08-22 15:02:49,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:02:49,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:02:50,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:02:50,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:02:50,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:02:53,Anwar,Capium365_Dashboard,the user selects Last Week from the Transactions filter dropdown
+2025-08-22 15:02:53,,,Captured screenshot for passed step: the user selects Last Week from the Transactions filter dropdown
+2025-08-22 15:02:53,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:02:54,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:02:54,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:02:54,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:02:54,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:02:57,Anwar,Capium365_Dashboard,the user selects Last Month from the Transactions filter dropdown
+2025-08-22 15:02:57,,,Captured screenshot for passed step: the user selects Last Month from the Transactions filter dropdown
+2025-08-22 15:02:57,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:02:58,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:02:58,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:02:58,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:02:58,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:03:01,Anwar,Capium365_Dashboard,the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 15:03:02,,,Captured screenshot for passed step: the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 15:03:02,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:03:02,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:03:02,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:03:02,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:03:02,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:03:06,Anwar,Capium365_Dashboard,the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 15:03:06,,,Captured screenshot for passed step: the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 15:03:06,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:03:06,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:03:06,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:03:06,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:03:06,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:03:10,Anwar,Capium365_Dashboard,the user selects Last Year from the Transactions filter dropdown
+2025-08-22 15:03:10,,,Captured screenshot for passed step: the user selects Last Year from the Transactions filter dropdown
+2025-08-22 15:03:10,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:03:10,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:03:10,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 15:03:10,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 15:03:10,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 15:03:14,Anwar,Capium365_Dashboard,the user selects Custom from the Transactions filter dropdown
+2025-08-22 15:03:14,,,Captured screenshot for passed step: the user selects Custom from the Transactions filter dropdown
+2025-08-22 15:03:14,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 15:03:14,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 15:03:14,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 15:03:14,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 15:03:18,Anwar,Capium365_Dashboard,the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 15:03:18,,,Captured screenshot for passed step: the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 15:03:18,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:03:18,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:03:18,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:03:18,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:03:18,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 15:03:18,,,Scenario Passed.
+2025-08-22 15:03:18,,,Clicked 5.0 Profile Icon.
+2025-08-22 15:03:20,,,Clicked 5.0 Sign Out.
+2025-08-22 15:03:20,,,Successfully redirected to login page after logout.
+2025-08-22 15:03:20,,,Successfully logged out and redirected to login page.
+2025-08-22 15:03:20,,,Browser closed.
+2025-08-22 15:06:40,,,Driver setup successfully
+2025-08-22 15:06:40,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 15:06:40,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 15:06:40,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 15:06:42,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 15:06:42,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 15:06:44,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 15:06:44,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 15:06:44,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 15:06:44,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 15:06:48,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 15:06:48,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 15:06:48,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 15:06:48,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 15:07:01,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 15:07:01,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 15:07:11,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 15:07:11,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 15:07:11,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 15:07:13,Anwar,Capium365_Dashboard,the user selects This Year from the filter dropdown
+2025-08-22 15:07:13,,,Captured screenshot for passed step: the user selects This Year from the filter dropdown
+2025-08-22 15:07:13,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:13,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:13,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:13,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:07:13,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:07:14,Anwar,Capium365_Dashboard,the user selects This Month from the filter dropdown
+2025-08-22 15:07:14,,,Captured screenshot for passed step: the user selects This Month from the filter dropdown
+2025-08-22 15:07:14,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:15,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:15,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:15,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:07:15,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:07:17,Anwar,Capium365_Dashboard,the user selects This Week from the filter dropdown
+2025-08-22 15:07:17,,,Captured screenshot for passed step: the user selects This Week from the filter dropdown
+2025-08-22 15:07:17,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:17,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:17,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:17,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:07:17,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:07:19,Anwar,Capium365_Dashboard,the user selects Last Week from the filter dropdown
+2025-08-22 15:07:20,,,Captured screenshot for passed step: the user selects Last Week from the filter dropdown
+2025-08-22 15:07:20,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:20,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:20,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:20,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:07:21,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:07:22,Anwar,Capium365_Dashboard,the user selects Last Month from the filter dropdown
+2025-08-22 15:07:22,,,Captured screenshot for passed step: the user selects Last Month from the filter dropdown
+2025-08-22 15:07:22,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:22,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:22,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:22,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:07:22,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:07:24,Anwar,Capium365_Dashboard,the user selects This Quarter from the filter dropdown
+2025-08-22 15:07:24,,,Captured screenshot for passed step: the user selects This Quarter from the filter dropdown
+2025-08-22 15:07:24,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:25,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:25,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:25,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:07:25,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:07:27,Anwar,Capium365_Dashboard,the user selects Last Quarter from the filter dropdown
+2025-08-22 15:07:27,,,Captured screenshot for passed step: the user selects Last Quarter from the filter dropdown
+2025-08-22 15:07:27,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:27,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:27,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:07:27,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:07:27,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:07:28,Anwar,Capium365_Dashboard,the user selects Last Year from the filter dropdown
+2025-08-22 15:07:29,,,Captured screenshot for passed step: the user selects Last Year from the filter dropdown
+2025-08-22 15:07:29,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:29,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:29,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 15:07:29,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 15:07:29,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 15:07:30,Anwar,Capium365_Dashboard,the user selects Custom from the filter dropdown
+2025-08-22 15:07:30,,,Captured screenshot for passed step: the user selects Custom from the filter dropdown
+2025-08-22 15:07:31,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 15:07:31,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 15:07:31,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 15:07:31,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 15:07:32,Anwar,Capium365_Dashboard,the user selects This Financial Year from the filter dropdown
+2025-08-22 15:07:33,,,Captured screenshot for passed step: the user selects This Financial Year from the filter dropdown
+2025-08-22 15:07:33,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:07:33,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:07:33,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:07:33,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:07:33,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 15:07:33,,,Scenario Passed.
+2025-08-22 15:07:33,,,Clicked 5.0 Profile Icon.
+2025-08-22 15:07:34,,,Clicked 5.0 Sign Out.
+2025-08-22 15:07:35,,,Successfully redirected to login page after logout.
+2025-08-22 15:07:35,,,Successfully logged out and redirected to login page.
+2025-08-22 15:07:35,,,Browser closed.
+2025-08-22 15:07:37,,,Scenario:Validate Transactions dashboard chart for 'This Year'
+2025-08-22 15:07:37,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 15:07:37,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 15:07:39,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 15:07:39,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 15:07:40,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 15:07:40,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 15:07:41,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 15:07:41,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 15:07:46,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 15:07:46,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 15:07:46,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 15:07:46,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 15:07:59,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 15:07:59,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 15:08:09,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 15:08:09,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 15:08:10,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 15:08:13,Anwar,Capium365_Dashboard,the user selects This Year from the Transactions filter dropdown
+2025-08-22 15:08:13,,,Captured screenshot for passed step: the user selects This Year from the Transactions filter dropdown
+2025-08-22 15:08:13,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:14,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:14,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:14,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:08:14,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:08:17,Anwar,Capium365_Dashboard,the user selects This Month from the Transactions filter dropdown
+2025-08-22 15:08:18,,,Captured screenshot for passed step: the user selects This Month from the Transactions filter dropdown
+2025-08-22 15:08:18,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:18,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:18,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:18,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:08:18,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:08:22,Anwar,Capium365_Dashboard,the user selects This Week from the Transactions filter dropdown
+2025-08-22 15:08:22,,,Captured screenshot for passed step: the user selects This Week from the Transactions filter dropdown
+2025-08-22 15:08:22,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:22,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:22,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:22,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:08:22,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:08:26,Anwar,Capium365_Dashboard,the user selects Last Week from the Transactions filter dropdown
+2025-08-22 15:08:26,,,Captured screenshot for passed step: the user selects Last Week from the Transactions filter dropdown
+2025-08-22 15:08:26,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:26,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:26,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:26,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:08:26,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:08:30,Anwar,Capium365_Dashboard,the user selects Last Month from the Transactions filter dropdown
+2025-08-22 15:08:30,,,Captured screenshot for passed step: the user selects Last Month from the Transactions filter dropdown
+2025-08-22 15:08:30,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:30,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:30,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:30,Anwar,Capium365_Dashboard,the chart should display day-wise labels
+2025-08-22 15:08:30,,,Captured screenshot for passed step: the chart should display day-wise labels
+2025-08-22 15:08:34,Anwar,Capium365_Dashboard,the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 15:08:34,,,Captured screenshot for passed step: the user selects This Quarter from the Transactions filter dropdown
+2025-08-22 15:08:34,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:34,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:34,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:34,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:08:34,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:08:38,Anwar,Capium365_Dashboard,the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 15:08:38,,,Captured screenshot for passed step: the user selects Last Quarter from the Transactions filter dropdown
+2025-08-22 15:08:38,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:38,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:38,,,Successfully captured screenshot: the chart should display month-wise labels
+2025-08-22 15:08:38,Anwar,Capium365_Dashboard,the chart should display month-wise labels
+2025-08-22 15:08:38,,,Captured screenshot for passed step: the chart should display month-wise labels
+2025-08-22 15:08:42,Anwar,Capium365_Dashboard,the user selects Last Year from the Transactions filter dropdown
+2025-08-22 15:08:42,,,Captured screenshot for passed step: the user selects Last Year from the Transactions filter dropdown
+2025-08-22 15:08:42,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:42,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:42,,,Successfully captured screenshot: the chart should display daily labels for that month
+2025-08-22 15:08:42,Anwar,Capium365_Dashboard,the chart should display daily labels for that month
+2025-08-22 15:08:43,,,Captured screenshot for passed step: the chart should display daily labels for that month
+2025-08-22 15:08:46,Anwar,Capium365_Dashboard,the user selects Custom from the Transactions filter dropdown
+2025-08-22 15:08:46,,,Captured screenshot for passed step: the user selects Custom from the Transactions filter dropdown
+2025-08-22 15:08:47,,,Successfully captured screenshot: the user should be prompted to select a date range
+2025-08-22 15:08:47,,,Captured screenshot for passed step: the user should be prompted to select a date range
+2025-08-22 15:08:47,,,Successfully captured screenshot: the dashboard metrics should update after range selection
+2025-08-22 15:08:47,,,Captured screenshot for passed step: the dashboard metrics should update after range selection
+2025-08-22 15:08:51,Anwar,Capium365_Dashboard,the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 15:08:51,,,Captured screenshot for passed step: the user selects This Financial Year from the Transactions filter dropdown
+2025-08-22 15:08:51,Anwar,Capium365_Dashboard,the dashboard metrics should be visible
+2025-08-22 15:08:51,,,Captured screenshot for passed step: the dashboard metrics should be visible
+2025-08-22 15:08:51,,,Successfully captured screenshot: the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:08:51,Anwar,Capium365_Dashboard,the chart should display month-wise labels \(Apr to Mar)
+2025-08-22 15:08:51,,,Captured screenshot for passed step: the chart should display month-wise labels (Apr to Mar)
+2025-08-22 15:08:51,,,Scenario Passed.
+2025-08-22 15:08:51,,,Clicked 5.0 Profile Icon.
+2025-08-22 15:08:53,,,Clicked 5.0 Sign Out.
+2025-08-22 15:08:53,,,Successfully redirected to login page after logout.
+2025-08-22 15:08:53,,,Successfully logged out and redirected to login page.
+2025-08-22 15:08:53,,,Browser closed.
