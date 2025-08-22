@@ -37,7 +37,7 @@ public class Capium365_Receipts_Receipts_Actions {
 	WebDriver driver = HelperClass.getDriver();
 	WebDriverWait wait = HelperClass.getWait();
 	
-	String FilePath="C:\\Users\\satishkumar.silphoz\\Documents\\2024Automation\\2025\\Capium365\\src\\test\\resources\\PDF_Files\\Receipt 2.pdf";
+	String FilePath="D:\\Files\\Receipt 2.pdf";
 
 	public void ClickOnReceipts() {
 		By receiptsTab = By.xpath("//span[text()='Receipts']//parent::a");

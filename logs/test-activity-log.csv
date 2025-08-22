@@ -5897,3 +5897,274 @@
 2025-08-22 08:38:33,,,Captured screenshot for passed step: Click on Capium365 Client login
 2025-08-22 08:38:33,satishkumar.silphoz,Credentials,Username and Password entered successfully.
 2025-08-22 08:38:33,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:01:50,,,Driver setup successfully
+2025-08-22 12:01:51,,,Scenario:Validate Invoice dashboard chart for 'Time Filter'
+2025-08-22 12:01:51,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:01:51,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:01:53,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:01:53,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:01:54,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:01:54,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:01:55,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:01:55,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:01:57,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:01:57,,,Failed to capture screenshot for step: User Click on login button | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [60505805deb6318f8070bd910542b0ce, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59672}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59672/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 60505805deb6318f8070bd910542b0ce
+2025-08-22 12:01:57,,,Failed to capture screenshot for step: User Click on login button | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [60505805deb6318f8070bd910542b0ce, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59672}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59672/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 60505805deb6318f8070bd910542b0ce
+2025-08-22 12:01:57,,,Scenario Failed.
+2025-08-22 12:11:28,,,Driver setup successfully
+2025-08-22 12:11:28,,,Scenario:Add a new support ticket
+2025-08-22 12:11:28,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:11:29,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:11:30,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:11:30,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:11:33,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:11:33,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:11:33,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:11:33,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:11:37,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:11:37,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 12:11:37,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 12:11:37,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 12:11:50,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 12:11:50,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 12:12:00,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 12:12:00,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 12:12:01,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 12:12:03,Anwar,Tickets Tab,the user is on the Support Ticket tab
+2025-08-22 12:12:03,,,Captured screenshot for passed step: the user is on the Support Ticket tab
+2025-08-22 12:12:05,Anwar,Tickets Tab,the user clicks on the Add Support Ticket button
+2025-08-22 12:12:05,,,Captured screenshot for passed step: the user clicks on the Add Support Ticket button
+2025-08-22 12:12:16,Anwar,Tickets Tab,the user enters valid ticket details
+2025-08-22 12:12:16,,,Captured screenshot for passed step: the user enters valid ticket details
+2025-08-22 12:12:17,,,Captured screenshot for passed step: clicks the Submit button
+2025-08-22 12:12:17,,,Captured screenshot for passed step: a new ticket should be created
+2025-08-22 12:12:17,,,Captured screenshot for passed step: it should appear in the list under the Open status
+2025-08-22 12:12:17,,,Scenario Passed.
+2025-08-22 12:12:22,,,Clicked 5.0 Profile Icon.
+2025-08-22 12:12:35,,,Clicked 5.0 Sign Out.
+2025-08-22 12:12:38,,,Logout failed: invalid session id
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1370e3e6c46d5c643ccb7525445516d8, findElement {using=xpath, value=//p[normalize-space()='Receipts, Invoices & Bankfeeds']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60219}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60219/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1370e3e6c46d5c643ccb7525445516d8
+2025-08-22 12:12:38,,,Logout failed: 
+2025-08-22 12:12:38,,,Browser closed.
+2025-08-22 12:20:09,,,Driver setup successfully
+2025-08-22 12:20:10,,,Scenario:Add a new support ticket
+2025-08-22 12:20:10,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:20:10,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:20:10,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:20:10,,,Failed to capture screenshot for step: User need to enter the Application Url | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [567625af1f8d9edfce70abff07a30a36, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60720}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60720/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 567625af1f8d9edfce70abff07a30a36
+2025-08-22 12:20:10,,,Failed to capture screenshot for step: User need to enter the Application Url | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [567625af1f8d9edfce70abff07a30a36, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60720}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60720/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 567625af1f8d9edfce70abff07a30a36
+2025-08-22 12:20:10,,,Scenario Failed.
+2025-08-22 12:20:17,,,No logout element was clicked.
+2025-08-22 12:20:17,,,Successfully logged out and redirected to login page.
+2025-08-22 12:20:17,,,Browser closed.
+2025-08-22 12:20:19,,,Driver setup successfully
+2025-08-22 12:20:19,,,Scenario:Validate bank tab
+2025-08-22 12:20:19,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:20:19,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:20:20,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:20:20,,,Failed to capture screenshot for step: User need to enter the Application Url | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f110662c9e982648df6d8ba13be22b2a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60739}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60739/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f110662c9e982648df6d8ba13be22b2a
+2025-08-22 12:20:20,,,Failed to capture screenshot for step: User need to enter the Application Url | Error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.138)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f110662c9e982648df6d8ba13be22b2a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\LOCAL_~1.SIL\Temp\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60739}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60739/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f110662c9e982648df6d8ba13be22b2a
+2025-08-22 12:20:20,,,Scenario Failed.
+2025-08-22 12:25:01,,,Driver setup successfully
+2025-08-22 12:25:02,,,Scenario:Validate Process Duplicate Upload popup with No button
+2025-08-22 12:25:02,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:25:02,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:25:03,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:25:04,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:25:05,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:25:05,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:25:05,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:25:05,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:25:09,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:25:09,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 12:25:09,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 12:25:10,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 12:25:23,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 12:25:23,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 12:25:33,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 12:25:33,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 12:25:33,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 12:25:34,,,Captured screenshot for passed step: Click on Receipts Menu
+2025-08-22 12:25:35,,,Clicked sidebar expand arrow.
+2025-08-22 12:25:35,,,Captured screenshot for passed step: Verify PurchaseInvoice Page
+2025-08-22 12:25:37,,,Captured screenshot for passed step: Click on Upload PurchaseInvoice button
+2025-08-22 12:25:40,,,Captured screenshot for passed step: Click on Choose File button
+2025-08-22 12:25:46,,,Captured screenshot for passed step: Click on uploadPurchaseInvoice2Buttton
+2025-08-22 12:25:48,,,Captured screenshot for passed step: Click on Upload PurchaseInvoice button
+2025-08-22 12:25:51,,,Captured screenshot for passed step: Click on Choose File button
+2025-08-22 12:25:56,,,Captured screenshot for passed step: Click on uploadPurchaseInvoice2Buttton
+2025-08-22 12:25:58,,,Captured screenshot for passed step: Click on Duplicate Logo in purchases
+2025-08-22 12:25:58,,,Captured screenshot for passed step: Click on No button process upload Duplicate
+2025-08-22 12:26:09,,,Captured screenshot for passed step: Validate ProcessDuplicate upload po-pup Should Not Display
+2025-08-22 12:26:09,,,Scenario Passed.
+2025-08-22 12:26:09,,,Clicked 5.0 Profile Icon.
+2025-08-22 12:26:10,,,Clicked 5.0 Sign Out.
+2025-08-22 12:26:10,,,Successfully redirected to login page after logout.
+2025-08-22 12:26:10,,,Successfully logged out and redirected to login page.
+2025-08-22 12:26:11,,,Browser closed.
+2025-08-22 12:29:41,,,Driver setup successfully
+2025-08-22 12:29:41,,,Scenario:Validate bank accounts from bussiness tab
+2025-08-22 12:29:41,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:29:41,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:29:43,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:29:43,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:29:44,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:29:45,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:29:45,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:29:45,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:29:49,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:29:49,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 12:29:49,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 12:29:49,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 12:30:03,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 12:30:03,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 12:30:13,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 12:30:13,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 12:30:13,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 12:30:14,,,Captured screenshot for passed step: go to settings and click on business
+2025-08-22 12:30:29,,,Captured screenshot for failed step: go to settings and click on business
+2025-08-22 12:30:29,,,Scenario Failed.
+2025-08-22 12:30:29,,,Clicked 5.0 Profile Icon.
+2025-08-22 12:30:30,,,Clicked 5.0 Sign Out.
+2025-08-22 12:30:30,,,Successfully redirected to login page after logout.
+2025-08-22 12:30:30,,,Successfully logged out and redirected to login page.
+2025-08-22 12:30:30,,,Browser closed.
+2025-08-22 12:31:14,,,Driver setup successfully
+2025-08-22 12:31:15,,,Scenario:Validate bank accounts from bussiness tab
+2025-08-22 12:31:15,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:31:15,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:31:16,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:31:17,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:31:18,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:31:18,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:31:18,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:31:18,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:31:22,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:31:22,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 12:31:22,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 12:31:22,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 12:31:35,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 12:31:35,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 12:31:45,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 12:31:45,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 12:31:46,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 12:31:46,,,Captured screenshot for passed step: go to settings and click on business
+2025-08-22 12:32:00,,,Captured screenshot for passed step: Compare the bank accounts in bank tab and bussiness tab
+2025-08-22 12:32:00,,,Scenario Passed.
+2025-08-22 12:32:01,,,Clicked 5.0 Profile Icon.
+2025-08-22 12:32:02,,,Clicked 5.0 Sign Out.
+2025-08-22 12:32:02,,,Successfully redirected to login page after logout.
+2025-08-22 12:32:02,,,Successfully logged out and redirected to login page.
+2025-08-22 12:32:02,,,Browser closed.
+2025-08-22 12:32:38,,,Driver setup successfully
+2025-08-22 12:32:38,,,Scenario:Verify search bar in expand arrow
+2025-08-22 12:32:38,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:32:38,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:32:40,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:32:40,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:32:41,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:32:41,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:32:41,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:32:41,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:32:45,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:32:45,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 12:32:45,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 12:32:45,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 12:32:58,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 12:32:58,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 12:33:08,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 12:33:09,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 12:33:09,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 12:33:09,,,Captured screenshot for passed step: Click on bank tab
+2025-08-22 12:33:10,,,Clicked sidebar expand arrow.
+2025-08-22 12:33:10,,,Captured screenshot for passed step: Click on expand icon
+2025-08-22 12:33:21,,,Captured screenshot for failed step: Click on expand icon
+2025-08-22 12:33:21,,,Scenario Failed.
+2025-08-22 12:33:21,,,Clicked 5.0 Profile Icon.
+2025-08-22 12:33:22,,,Clicked 5.0 Sign Out.
+2025-08-22 12:33:22,,,Successfully redirected to login page after logout.
+2025-08-22 12:33:22,,,Successfully logged out and redirected to login page.
+2025-08-22 12:33:23,,,Browser closed.
+2025-08-22 12:34:33,,,Driver setup successfully
+2025-08-22 12:34:34,,,Scenario:Verify search bar in expand arrow
+2025-08-22 12:34:34,satishkumar.silphoz,Browser Launching,Launch browser successfully.
+2025-08-22 12:34:34,,,Captured screenshot for passed step: Launch the browser
+2025-08-22 12:34:35,satishkumar.silphoz,URL entered successfully.,User need to enter the Application Url
+2025-08-22 12:34:36,,,Captured screenshot for passed step: User need to enter the Application Url
+2025-08-22 12:34:37,satishkumar.silphoz,Click,Click on Capium365 Client login
+2025-08-22 12:34:37,,,Captured screenshot for passed step: Click on Capium365 Client login
+2025-08-22 12:34:37,satishkumar.silphoz,Credentials,Username and Password entered successfully.
+2025-08-22 12:34:37,,,Captured screenshot for passed step: User Enter username and Password
+2025-08-22 12:34:40,satishkumar.silphoz,Button,User Click on next button
+2025-08-22 12:34:40,,,Captured screenshot for passed step: User Click on login button
+2025-08-22 12:34:40,satishkumar.silphoz,OTP,OTP enterned sucessfully
+2025-08-22 12:34:41,,,Captured screenshot for passed step: User enter OTP
+2025-08-22 12:34:54,satishkumar.silphoz,Verifying,Login button clicked sucessfully
+2025-08-22 12:34:54,,,Captured screenshot for passed step: Click on verify account
+2025-08-22 12:35:04,satishkumar.silphoz,Redirection,Redirected to Capium365 homepage sucessfully
+2025-08-22 12:35:04,,,Successfully captured screenshot: Redirect to365 client
+2025-08-22 12:35:04,,,Captured screenshot for passed step: Redirect to365 client
+2025-08-22 12:35:04,,,Captured screenshot for passed step: Click on bank tab
+2025-08-22 12:35:06,,,Clicked sidebar expand arrow.
+2025-08-22 12:35:06,,,Captured screenshot for passed step: Click on expand icon
+2025-08-22 12:35:17,,,Captured screenshot for passed step: enter text in search text field and verify
+2025-08-22 12:35:17,,,Captured screenshot for passed step: Click on cross mark in search text field and verify the data is cleared
+2025-08-22 12:35:17,,,Scenario Passed.
+2025-08-22 12:35:17,,,Clicked 5.0 Profile Icon.
+2025-08-22 12:35:18,,,Clicked 5.0 Sign Out.
+2025-08-22 12:35:19,,,Successfully redirected to login page after logout.
+2025-08-22 12:35:19,,,Successfully logged out and redirected to login page.
+2025-08-22 12:35:19,,,Browser closed.

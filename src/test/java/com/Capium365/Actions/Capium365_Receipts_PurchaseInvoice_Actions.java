@@ -31,7 +31,7 @@ public class Capium365_Receipts_PurchaseInvoice_Actions {
 		PageFactory.initElements(HelperClass.getDriver(), purchaseInvoice);
 	}
 
-	String filePath = "C:\\Users\\satishkumar.silphoz\\Documents\\2024Automation\\2025\\Capium365\\src\\test\\resources\\PDF_Files\\Receipt 2.pdf";
+	String filePath = "D:\\Files\\Receipt 2.pdf";
 	public void clickOnReceiptsMenu() throws Throwable {
 		By receiptsBtnLocator = By.xpath("//span[contains(text(), 'Receipts')]");
 		wait.until(ExpectedConditions.visibilityOfElementLocated(receiptsBtnLocator));

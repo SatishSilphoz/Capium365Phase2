@@ -32,7 +32,7 @@ public class Capium365_InvoicesTab_Customers_Actions {
 	WebDriverWait wait = HelperClass.getWait();
 
 	String FilePath = "src\\test\\resources\\Files_Excel\\Add customers 1.xlsx";
-	String imgpath = "C:\\Users\\satishkumar.silphoz\\Documents\\2024Automation\\2025\\Capium365\\src\\test\\resources\\Images\\Capium logo.jpg";
+	String imgpath = "D:\\Files\\Capium logo.jpg";
 
 	public Capium365_InvoicesTab_Customers_Actions() {
 		this.customerLocators = new Capium365_InvoicesTab_Customers_Locators();

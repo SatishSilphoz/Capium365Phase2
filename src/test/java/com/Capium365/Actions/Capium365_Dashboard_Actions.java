@@ -1,5 +1,10 @@
 package com.Capium365.Actions;
 
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.KeyEvent;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.ArrayList;
@@ -33,6 +38,7 @@ public class Capium365_Dashboard_Actions {
 		PageFactory.initElements(HelperClass.getDriver(), dashboardLocators);
 	}
 
+	String FilePath="D:\\Files\\Receipt 2.pdf";
 	public Capium365_Dashboard_Actions(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
@@ -907,7 +913,7 @@ public class Capium365_Dashboard_Actions {
 		HelperClass.sleep1(2000);
 	}
 
-	public void EnetrValidTicketDetails() throws IOException {
+	public void EnetrValidTicketDetails() throws IOException, AWTException {
 		String Path = "D:\\Autoit\\TicketUpload.exe";
 
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@formcontrolname='subject']")));
@@ -923,7 +929,22 @@ public class Capium365_Dashboard_Actions {
 				.visibilityOfElementLocated(By.xpath("//input[@formcontrolname='fileName']//parent::div")));
 		HelperClass.clickUsingJS(By.xpath("//input[@formcontrolname='fileName']//parent::div"));
 
-		Runtime.getRuntime().exec(Path);
+		Robot robot = new Robot();
+
+		StringSelection selection = new StringSelection(FilePath);
+		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection, null);
+
+		robot.keyPress(KeyEvent.VK_CONTROL);
+		robot.keyPress(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_V);
+		robot.keyRelease(KeyEvent.VK_CONTROL);
+
+		HelperClass.sleep1(2000);
+
+		robot.keyPress(KeyEvent.VK_ENTER);
+		robot.keyRelease(KeyEvent.VK_ENTER);
+		HelperClass.sleep1(2000);
+	//	Runtime.getRuntime().exec(Path);
 		HelperClass.sleep1(2000);
 
 	}

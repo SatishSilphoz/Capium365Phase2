@@ -63,7 +63,7 @@ Scenario: Validate Add Supplier Page
    Then Enter All Mandatory Details
    Then Click on Cancel Changes button
    Then Validate Filelds data is Earased or not
-   @Suppliers @Rerun1
+   @Suppliers 
    Scenario: Validate PaymentAccountDropdown In Add New Supplier Page
    When Click on Receipts Menu
    Then Click on KeyBoardErrorRight
@@ -195,7 +195,7 @@ Scenario: Validate Add Supplier Page
     Then Click on KeyBoardErrorRight
     Then Click on Suppliers Menu
     Then Click on Search bar and Click on Edit Icon
-    @Suppliers @Rerun
+    @Suppliers 
     Scenario: Validate Supplier CheckBox Inside the Suppliers CheckBox
     When Click on Receipts Menu
     Then Click on KeyBoardErrorRight
@@ -220,7 +220,7 @@ Scenario: Validate Add Supplier Page
     Then Click on History Tab
     Then Click on Close button In History Tab
     Then Validate Supplier Main grid Should Display
-    @Suppliers  @Rerun
+    @Suppliers  
     Scenario: Validate Payment Account Dropdown in Edit Supplier Page
     When Click on Receipts Menu
     Then Click on KeyBoardErrorRight

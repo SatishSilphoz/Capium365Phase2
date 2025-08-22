@@ -1,5 +1,6 @@
 package com.Capium365.StepDefination;
 
+import java.awt.AWTException;
 import java.io.IOException;
 
 import org.openqa.selenium.By;
@@ -935,7 +936,7 @@ public class Capium365_Dashboardsteps_stepdefination {
 	}
 
 	@When("the user enters valid ticket details")
-	public void the_user_enters_valid_ticket_details() throws IOException {
+	public void the_user_enters_valid_ticket_details() throws IOException, AWTException {
 		dashboardActions.EnetrValidTicketDetails();
 		StepTracker.setCurrentStep("the user enters valid ticket details");
 		Log.info("the user enters valid ticket details", User, "Tickets Tab");

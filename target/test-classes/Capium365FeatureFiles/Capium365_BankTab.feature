@@ -72,7 +72,7 @@ Feature: Validate bank tab
     Given Click on bank tab
     And click on goto TF and change the page
 
-  @BankTab
+  @BankTab 
   Scenario: Validate bank accounts from bussiness tab
     Given go to settings and click on business
     Then Compare the bank accounts in bank tab and bussiness tab

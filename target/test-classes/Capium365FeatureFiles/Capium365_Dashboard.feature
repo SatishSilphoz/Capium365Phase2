@@ -370,7 +370,7 @@ Feature: Dashboard Chart Validation
     And the "Open" filter dropdown should be visible
     And the ticket table should display the columns "Ticket No.", "Subject", "Created on", "Status", and "Department"
 
-  @Dashboard
+  @Dashboard @Run
   Scenario: Add a new support ticket
     Given the user is on the Support Ticket tab
     Given the user clicks on the "Add Support Ticket" button

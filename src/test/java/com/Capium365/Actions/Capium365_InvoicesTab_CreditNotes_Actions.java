@@ -32,7 +32,7 @@ public class Capium365_InvoicesTab_CreditNotes_Actions {
 
 	}
 	
-	String filePath = "C:\\Users\\satishkumar.silphoz\\Documents\\2024Automation\\2025\\Capium365\\src\\test\\resources\\PDF_Files\\";
+	String filePath = "D:\\Files\\Receipt 2.pdf";
 
 	WebDriverWait wait=HelperClass.getWait();
 	WebDriver driver=HelperClass.getDriver();

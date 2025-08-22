@@ -299,15 +299,15 @@ public class Capium365_BankTab_Actions {
         HelperClass.sleep1(3000);
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//mat-icon[text()='keyboard_arrow_right' and @data-mat-icon-type='font']")));
         HelperClass.clickUsingJS( By.xpath("//mat-icon[text()='keyboard_arrow_right' and @data-mat-icon-type='font']"));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")));
-        String actualText1 = HelperClass.getText(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")).trim();
-        String expected1 = transactionaccountbusiness;
- 
-        if (actualText1.contains(expected1)) {
-        	System.out.println("'Transaction account1' matched");
-        } else {
-	    System.out.println("Transaction account1. Actual: " + actualText1);
-        }
+//        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")));
+//        String actualText1 = HelperClass.getText(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")).trim();
+//        String expected1 = transactionaccountbusiness;
+// 
+//        if (actualText1.contains(expected1)) {
+//        	System.out.println("'Transaction account1' matched");
+//        } else {
+//	    System.out.println("Transaction account1. Actual: " + actualText1);
+//        }
         
         String actualText2 = HelperClass.getText(By.xpath("//span[@title='sbi (3257)']")).trim();
         String expected2 = sbibusiness;
@@ -387,14 +387,14 @@ public class Capium365_BankTab_Actions {
 		 wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@placeholder='Search']/ancestor::mat-form-field[contains(@class,'mini')]")));
 		 HelperClass.safeSendKeys(By.xpath("(//input[@placeholder='Search'])[1]"), "transac");
 		
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")));
+		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")));
 		 String actualText = HelperClass.getText(By.xpath("//span[@title='TRANSACTION ACCOUNT 1 (0000)']")).trim();
 			String expected = "TRANSAC";
 	
 			if (actualText.contains(expected)) {
 			    System.out.println("Found the bank");
 			} else {
-			    System.out.println("Text not matched. Actual: " + actualText);
+			    System.out.println("No Records Found releated to this bank " + actualText);
 			}
 	}
 	

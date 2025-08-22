@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
 	    features = "src\\test\\resources\\Capium365FeatureFiles\\Capium365_Receipts_Supplier.feature",
 	    glue = "com.Capium365.StepDefination",
-	    tags = "@Rerun1", 
+	    tags = "@Suppliers", 
 	    plugin = {
 	        "pretty",
 	        "html:target/cucumber-reports/CucumberReport.html",
